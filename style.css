@@ -1,0 +1,54 @@
+body {
+    background-image:url('bgimage.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100vh; 
+}
+
+
+h1 {
+    font-size:30px; 
+    font-family:Satoshi Black; 
+    text-align:center
+}
+
+
+p {
+    font-family:Satoshi medium; 
+    font-size:20px; 
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #D264B6
+}
+
+pre {
+    font-family:satoshi medium; 
+    text-align: center; 
+    font-size: 35px;
+
+}
+
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px
+
+}
+
+.wrapper {
+    text-align: center;
+  }
+
+.button1 {
+    font-size: 40px;
+    font-family: Satoshi Medium
+}
+
+.button2 {
+    font-size:40px;
+    font-family: Satoshi Medium
+}
